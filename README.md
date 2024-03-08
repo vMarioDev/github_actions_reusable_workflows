@@ -36,7 +36,22 @@ jobs:
 
 
 
+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
+
+
+
+
+
+
 
 CHECK  this
 https://github.com/n3wt0n/ActionsTest/blob/main/.github/workflows/reusableWorkflowsUser.yml
 
+
+https://blog.derlin.ch/github-actions-reusable-workflow-docker-images
+https://github.com/derlin/rickroller/blob/main/.github/workflows/reusable_docker-build-and-push.yaml
+
+
+https://dev.to/quartztechnology/use-reusable-workflows-to-push-images-on-github-actions-2a17
+
+https://github.com/sumitraj0103/Letsdevops/blob/main/.github/workflows/workflow2.yml
